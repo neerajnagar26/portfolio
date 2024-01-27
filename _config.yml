@@ -80,7 +80,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: University of Waterloo
+        title: ![](images/uw_icon.png) #University of Waterloo
         sub_title: Graduate Research Student
         icon: images/uw_icon.png
         caption: Sep 2023 - Current
@@ -107,15 +107,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
           finest composite image.
+
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: top-left
+        title: University of Waterloo
+        sub_title: Master's (MASc, thesis)
+        caption: 2023 - 2025
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
