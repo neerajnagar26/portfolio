@@ -80,7 +80,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='250'/>"
+        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='250' style='display: block; margin-left: auto; margin-right: auto;'/>"
         sub_title: Graduate Research Student
         icon: images/uw_icon.png
         caption: Sep 2023 - Current
@@ -116,13 +116,20 @@ content:
         sub_title: Master's (MASc, thesis)
         caption: 2023 - 2025
         description: | # this will include new lines to allow paragraphs
+          I am a Graduate Research Student at the [University of Waterloo](https://uwaterloo.ca/), where I am pursuing my Master's degree in Computer Software Engineering. My passion for software engineering and innovation stems from my strong academic background in electronics engineering, which I obtained from the prestigious [Indian Institute of Technology (IIT) BHU](https://iitbhu.ac.in/) in 2020.
+
+      - layout: top-left
+        title: Indian Institute of Technology (BHU) Varanasi, India
+        sub_title: Bachelor of Technology in Electronics Engineering
+        caption: 2016 - 2020
+        description: | # this will include new lines to allow paragraphs
           Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      I am a Graduate Research Student at the [University of Waterloo](https://uwaterloo.ca/), where I am pursuing my Master's degree in Computer Software Engineering. My passion for software engineering and innovation stems from my strong academic background in electronics engineering, which I obtained from the prestigious [Indian Institute of Technology (IIT) BHU](https://iitbhu.ac.in/) in 2020.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
