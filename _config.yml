@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Neeraj Nagar
-title: Software Developer
+title: Software Engineer
 email: neerajnagar262@gmail.com
 # email_title: Email (Email title override)
 phone: (+1)437-808-2696
@@ -19,19 +19,19 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: #jekyllrb
 github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
+stackoverflow_username: #"00000001"
+dribbble_username: #jekyll
 facebook_username: jekyll
-flickr_username: jekyll
+flickr_username: #jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+xing_username: #jekyll
+pinterest_username: #jekyll
+youtube_username: #jekyll
+orcid_username: #0000-0000-0000-0000
+googlescholar_username: #D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
