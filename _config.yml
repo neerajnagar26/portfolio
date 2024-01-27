@@ -70,7 +70,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         description: | # this will include new lines to allow paragraphs
-          - Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
+        - Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
 
   - title: Experience
     layout: list
@@ -100,9 +100,9 @@ content:
         caption: Feb 2021 - Jul 2023
         #link: https://research.samsung.com/sri-n
         description: | # this will include new lines to allow paragraphs
-          - Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
-            phones.
-          - Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
+        - Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
+          phones.
+        - Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
 
       - layout: left
         title: Samsung R&D, India
@@ -111,8 +111,8 @@ content:
         #link: https://research.samsung.com/sri-n
 
         description: | # this will include new lines to allow paragraphs
-          - Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
-            finest composite image.
+        - Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
+          finest composite image.
 
   - title: Education
     layout: list
