@@ -64,23 +64,32 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Pattern Mining of Time Series Data
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time
+          series dataset.
+
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: University of Waterloo
+        sub_title: Graduate Research Student
+        caption: Sep 2023 - Current
+        link: https://uwaterloo.ca/
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
+          phones.
+          Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
       - layout: left
         title: Samsung R&D, India
         sub_title: Software Engineer
@@ -92,14 +101,12 @@ content:
           Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
           phones.
           Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
-
       - layout: left
         title: Samsung R&D, India
         sub_title: Software Engineer Intern
         caption: May 2019 - Jul 2019
         link: https://research.samsung.com/sri-n
-        quote: >
-          
+
         description: | # this will include new lines to allow paragraphs
           Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
           finest composite image.
