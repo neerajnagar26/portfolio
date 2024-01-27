@@ -80,7 +80,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='210' style='display: block; float: left;'/>"
+        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='220' style='display: block; float: left;'/>"
         sub_title: Graduate Research Student
         icon: images/uw_icon.png
         caption: Sep 2023 - Current
@@ -119,7 +119,7 @@ content:
           I am a Graduate Research Student at the [University of Waterloo](https://uwaterloo.ca/), where I am pursuing my Master's degree in Computer Software Engineering. My passion for software engineering and innovation stems from my strong academic background in electronics engineering, which I obtained from the prestigious [Indian Institute of Technology (IIT) BHU](https://iitbhu.ac.in/) in 2020.
 
       - layout: top-left
-        title: IIT (BHU) Varanasi, India
+        title: "<img src='images/iitbhu.png' alt='IIT BHU' width='220' style='display: block; float: left;'/>"
         sub_title: Bachelor of Technology in Electronics Engineering
         caption: 2016 - 2020
         description: | # this will include new lines to allow paragraphs
