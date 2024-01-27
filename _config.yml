@@ -82,11 +82,20 @@ content:
         caption: Sep 2023 - Current
         #link: https://uwaterloo.ca/
         description: | # this will include new lines to allow paragraphs
-          As a Graduate Research Student at the University of Waterloo, under the guidance of Supervisor Sebastian Fischmeister, I am pursuing a MASc thesis in computer software.
+          As a Graduate Research Student at the University of Waterloo, under the guidance of Supervisor Sebastian Fischmeister, 
+          I am pursuing a MASc thesis in computer software.
+
+          Scholarship: International Master’s Award of Excellence (IMAE)
+          Award: Graduate research studentship
+
+          Courses:
+          1. Algorithm Design and Analysis
+          2. Methods and Tools for Software Engineering
+          3. Data and Knowledge Modeling and Analysis
 
       - layout: left
         title: Samsung R&D, India
-        sub_title: Software Engineer
+        sub_title: Software Engineer, Camera System
         caption: Feb 2021 - Jul 2023
         #link: https://research.samsung.com/sri-n
         description: | # this will include new lines to allow paragraphs
