@@ -81,15 +81,17 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Samsung R&D
+        sub_title: Software Engineer
+        caption: Feb 2021 - Jul 2023
+        link: https://research.samsung.com/sri-n
         quote: >
-          Short description of the company (optional)
+          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
+          phones.
+          Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
   - title: Education
     layout: list
     content:
