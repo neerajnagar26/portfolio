@@ -34,10 +34,10 @@ orcid_username: #0000-0000-0000-0000
 googlescholar_username: #D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -53,27 +53,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-I am a Graduate Research Student at the University of Waterloo, where I am pursuing my Master's degree in Computer Software Engineering. 
-My passion for software engineering and innovation stems from my strong academic background in electronics engineering, which I obtained 
-from the prestigious Indian Institute of Technology (IIT) BHU in 2020.
-
-Before joining University of Waterloo, I contributed significantly to Samsung's research and development projects as a Software Engineer 
-for nearly three years. I co-authored three research papers and filed four patents, all aiming to enhance the user experience and push 
-the boundaries of technology. Some of the topics I worked on include optical image stabilization, photography rules, audio equalization, 
-and macrophotography. I also earned multiple certifications in data structures, Python, and deep learning, to further develop my skills 
-and knowledge. My journey is driven by a relentless commitment to innovation and a vision to create a future where technology knows no 
-limits. I am always eager to learn new things, collaborate with others, and take on new challenges. I would love to connect with you and 
-explore how my expertise and passion can add value to your team and your goals. Together, we can shape the future of technology.
-
-#old content  //need to be comment
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
