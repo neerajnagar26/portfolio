@@ -80,7 +80,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='200' style='display: block; margin-left: auto; margin-right: auto;'/>"
+        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='210' style='display: block; float: left;'/>"
         sub_title: Graduate Research Student
         icon: images/uw_icon.png
         caption: Sep 2023 - Current
@@ -112,7 +112,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='200' style='display: block; margin-left: auto; margin-right: auto;'/>"
+        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='220' style='display: block; float: left;'/>"
         sub_title: Master's (MASc, thesis)
         caption: 2023 - 2025
         description: | # this will include new lines to allow paragraphs
