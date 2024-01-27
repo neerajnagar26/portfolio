@@ -80,7 +80,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: "<img src='images/uw_icon.png' alt='University of Waterloo'/>"
+        title: "<img src='images/uw_icon.png' alt='University of Waterloo' width='200'/>"
         sub_title: Graduate Research Student
         icon: images/uw_icon.png
         caption: Sep 2023 - Current
