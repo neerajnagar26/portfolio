@@ -12,7 +12,7 @@ email: neerajnagar262@gmail.com
 # email_title: Email (Email title override)
 phone: (+1)437-808-2696
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -69,11 +69,6 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
 
@@ -125,7 +120,7 @@ content:
         sub_title: Bachelor of Technology in Electronics Engineering
         caption: 2016 - 2020
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          The Indian Institute of Technology (IIT) BHU is a prestigious institution that played a pivotal role in shaping my academic foundation in electronics engineering. Graduating in 2020, I acquired a comprehensive education that fuels my passion for software engineering and innovation.
 
   - title: A Little More About Me
     layout: text
