@@ -71,10 +71,8 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-
         description: | # this will include new lines to allow paragraphs
-          Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time
-          series dataset.
+          Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
 
   - title: Experience
     layout: list
