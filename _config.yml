@@ -92,8 +92,7 @@ content:
           Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
           phones.
           Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
-    layout: list
-    content:
+
       - layout: left
         title: Samsung R&D, India
         sub_title: Software Engineer Intern
