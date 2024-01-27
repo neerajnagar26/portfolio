@@ -89,9 +89,9 @@ content:
           Award: Graduate research studentship
 
           Courses:
-          1. Algorithm Design and Analysis
-          2. Methods and Tools for Software Engineering
-          3. Data and Knowledge Modeling and Analysis
+          - Algorithm Design and Analysis
+          - Methods and Tools for Software Engineering
+          - Data and Knowledge Modeling and Analysis
 
       - layout: left
         title: Samsung R&D, India
