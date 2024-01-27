@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 twitter_username: #jekyllrb
-github_username:  jekyll
+github_username:  neeraj-nagar
 stackoverflow_username: #"00000001"
 dribbble_username: #jekyll
-facebook_username: jekyll
+facebook_username: #jekyll
 flickr_username: #jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: neeraj_nagar26
+linkedin_username: neerajnagar26
 xing_username: #jekyll
 pinterest_username: #jekyll
 youtube_username: #jekyll
@@ -62,8 +62,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Pattern Mining of Time Series Data
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
