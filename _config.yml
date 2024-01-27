@@ -82,16 +82,27 @@ content:
     layout: list
     content:
       - layout: left
-        title: Samsung R&D
+        title: Samsung R&D, India
         sub_title: Software Engineer
         caption: Feb 2021 - Jul 2023
         link: https://research.samsung.com/sri-n
         quote: >
-          #Short description of the company (optional)
+          
         description: | # this will include new lines to allow paragraphs
           Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
           phones.
           Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
+    content:
+      - layout: left
+        title: Samsung R&D, India
+        sub_title: Software Engineer Intern
+        caption: May 2019 - Jul 2019
+        link: https://research.samsung.com/sri-n
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
+          finest composite image.
   - title: Education
     layout: list
     content:
