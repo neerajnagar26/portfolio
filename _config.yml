@@ -141,15 +141,7 @@ content:
 
       So, that's a little more about me – a storyteller, an explorer, and a lover of life through the lens of my camera.
 
-  - title: A Little More About Me
-    layout: text
-    photos:
-      - image: "images/IMG1.jpg"
-        alt_text: "Image 1 description"
-        caption: "Caption for image 1"
-      - image: "images/IMG2.jpg"
-        alt_text: "Image 2 description"
-        caption: "Caption for image 2"
+
 
 
 # Footer
