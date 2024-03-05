@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Neeraj Nagar
 title: Software Engineer
-email: neerajnagar262@gmail.com
+email: nnagar@uwaterloo.ca
+neerajnagar262@gmail.com
 # email_title: Email (Email title override)
 phone: (+1)437-808-2696
 # phone_title: Phone (Phone title override)
@@ -16,7 +17,7 @@ phone: (+1)437-808-2696
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: #jekyllrb
