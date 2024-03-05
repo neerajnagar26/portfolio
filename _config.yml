@@ -16,22 +16,22 @@ phone: (+1)437-808-2696
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: false  
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: #jekyllrb
 github_username:  neeraj-nagar
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+stackoverflow_username: #"00000001"
+dribbble_username: #jekyll
+facebook_username: #jekyll
+flickr_username: #jekyll
 instagram_username: neeraj_nagar26
 linkedin_username: neerajnagar26
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+xing_username: #jekyll
+pinterest_username: #jekyll
+youtube_username: #jekyll
 orcid_username: #0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+googlescholar_username: #D847cGsAAAAJ
 leetcode_username: neerajnagar
 
 
