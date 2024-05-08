@@ -67,10 +67,10 @@ content:
         title: Pattern Mining of Time Series
         link: Link to project 
         link_text: Link Text
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: Link to project 
+        # additional_links:
+        #   - title:  Github page for project 
+        #     icon: fab fa-github
+        #     url: Link to project 
         description: | # this will include new lines to allow paragraphs
           - Developing a novel method to identify distinct and recurring patterns in a given time series. The primary focus of this approach is to ensure high coverage
             of the time series.
@@ -88,7 +88,7 @@ content:
         #   - title:  Github page for project 
         #     icon: fab fa-github
         #     url: Link to project 
-        description:
+        description: |
            - Developed an autonomous robot using MATLAB for color segmentation, enabling detection of objects based on 
              different colors.
            - Implemented Dijkstra's algorithm for pathfinding, ensuring efficient navigation to deliver objects to 
