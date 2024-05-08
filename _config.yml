@@ -53,7 +53,7 @@ leetcode_username: neerajnagar
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/neeraj.jpg
+about_profile_image: images/neeraj_main.jpg
 about_content: | # this will include new lines to allow paragraphs
 
  I am a Graduate Research Student at the [University of Waterloo](https://uwaterloo.ca/), where I am pursuing my Master's degree in Computer Software Engineering. My passion for software engineering and innovation stems from my strong academic background in electronics engineering, which I obtained from the prestigious [Indian Institute of Technology (IIT) BHU](https://iitbhu.ac.in/) in 2020.
