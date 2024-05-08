@@ -93,7 +93,7 @@ content:
              different colors.
            - Implemented Dijkstra's algorithm for pathfinding, ensuring efficient navigation to deliver objects to 
              desired locations while receiving real-time input from a top-mounted camera for continuous monitoring.
-             
+
   - title: Experience
     layout: list
     content:
@@ -118,8 +118,8 @@ content:
           - Tools of Intelligent Systems Design
 
           Teaching Assistant:
-          - SE 350 Operating System, Winter'24
-          - ECE 350 RTOS, Spring'24
+          - SE350 Operating System, Winter'24
+          - ECE350 RTOS, Spring'24
 
       - layout: left
         title: Samsung R&D, India
