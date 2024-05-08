@@ -66,7 +66,7 @@ content:
       - layout: left
         title: Pattern Mining of Time Series
         link: Link to project 
-        link_text: Link Text
+        link_text: #Link Text
         # additional_links:
         #   - title:  Github page for project 
         #     icon: fab fa-github
