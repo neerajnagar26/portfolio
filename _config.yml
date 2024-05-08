@@ -76,8 +76,24 @@ content:
             of the time series.
           - The solution consists of three stages:
             1. The first stage, Used an established sub-sequences similarity computing method called matrix profile.
-            2. The second stage applied constraints on the co-existence of the different candidates and constraints on their selection for the final output.
-            3. In the third stage, a constraint solver selected the best-fitting patterns that maximized a gain function while adhering to the given constraints.
+            2. The second stage applied constraints on the co-existence of the different candidates and constraints on 
+               their selection for the final output.
+            3. In the third stage, a constraint solver selected the best-fitting patterns that maximized a gain function 
+               while adhering to the given constraints.
+      - layout: left
+        title: Autonomous Robot Navigation & Object Detection Using Image Processing
+        link: ## 
+        link_text: ##
+        # additional_links:
+        #   - title:  Github page for project 
+        #     icon: fab fa-github
+        #     url: Link to project 
+        description:
+           - Developed an autonomous robot using MATLAB for color segmentation, enabling detection of objects based on 
+             different colors.
+           - Implemented Dijkstra's algorithm for pathfinding, ensuring efficient navigation to deliver objects to 
+             desired locations while receiving real-time input from a top-mounted camera for continuous monitoring.
+             
   - title: Experience
     layout: list
     content:
