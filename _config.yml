@@ -99,6 +99,11 @@ content:
           - Algorithm Design and Analysis
           - Methods and Tools for Software Engineering
           - Data and Knowledge Modeling and Analysis
+          - Tools of Intelligent Systems Design
+
+          Teaching Assistant:
+          - SE 350 Operating System, Winter'24
+          - ECE 350 RTOS, Spring'24
 
       - layout: left
         title: Samsung R&D, India
@@ -109,6 +114,10 @@ content:
           - Developed camera sensor firmware update for Android 13 and designed upgrade for the Galaxy-S21 and Flip-3
             phones.
           - Enhanced pro-photography and hyper-lapse modes using Neural Network and Image Segmentation.
+          - Developed innovative mobile macro photography enhancement method using multiple lenses and light sources for 
+            semantic analysis, correcting blur, shadows, and glare for improved clarity and focus.
+          - Developed a method to combat image blurriness by intelligently selecting frames and correcting sensor data, significantly
+            reducing blurring and enhancing overall photograph quality for sharper, clearer outcomes.
 
       - layout: left
         title: Samsung R&D, India
@@ -117,8 +126,15 @@ content:
         #link: https://research.samsung.com/sri-n
 
         description: | # this will include new lines to allow paragraphs
-          - Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
-            finest composite image.
+          Image Style Transfer
+            - Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
+              finest composite image.
+            - Developed a model to transfer the style of one image region into another image region associated with
+              semantic categories, such as sky, road, and person.
+            - Trained our model on MIT ADE20K Dataset which contains more than 20K scene-centric
+              images of 150 different object categories.
+            - Reduced 150 classes of ADE20K Dataset to 27 classes which were of our interest resulting in
+              enhanced segmentation speed.
 
   - title: Education
     layout: list
