@@ -178,7 +178,9 @@ content:
       it's vibrant sunsets or candid moments, I love freezing fleeting moments in time, expressing my 
       creativity and love for life.
 
-
+  - title: 
+    layout: text
+    content: |
       This is a modified version of James Grant [website](https://github.com/sproogen). You can find the source code for my website on my [GitHub repository](https://github.com/neerajnagar26/portfolio). Simply clone the repository to use my portfolio template.
 
 # Footer
