@@ -65,12 +65,12 @@ content:
     content:
       - layout: left
         title: Pattern Mining of Time Series Data
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: Link to project 
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project 
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: Link to project 
         description: | # this will include new lines to allow paragraphs
           - Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
 
