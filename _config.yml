@@ -181,7 +181,7 @@ content:
   - title: 
     layout: text
     content: |
-      This is a modified version of James Grant [website](https://github.com/sproogen). You can find the source code for my website on my [GitHub repository](https://github.com/neerajnagar26/portfolio). Simply clone the repository to use my portfolio template.
+      You can find the source code for my website on my [GitHub repository](https://github.com/neerajnagar26/portfolio). Simply clone the repository to use my portfolio template.
 
 # Footer
 footer_show_references: true
