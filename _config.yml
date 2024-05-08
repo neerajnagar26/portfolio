@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 twitter_username: #jekyllrb
-github_username:  neeraj-nagar
+github_username:  neerajnagar26
 stackoverflow_username: #"00000001"
 dribbble_username: #jekyll
 facebook_username: #jekyll
@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Pattern Mining of Time Series Data
+        title: Pattern Mining of Time Series
         link: Link to project 
         link_text: Link Text
         additional_links:
@@ -72,8 +72,12 @@ content:
             icon: fab fa-github
             url: Link to project 
         description: | # this will include new lines to allow paragraphs
-          - Developing a robust time series model to identify and capture recurring patterns that span the entirety of the time series dataset.
-
+          - Developing a novel method to identify distinct and recurring patterns in a given time series. The primary focus of this approach is to ensure high coverage
+            of the time series.
+          - The solution consists of three stages:
+            1. The first stage, Used an established sub-sequences similarity computing method called matrix profile.
+            2. The second stage applied constraints on the co-existence of the different candidates and constraints on their selection for the final output.
+            3. In the third stage, a constraint solver selected the best-fitting patterns that maximized a gain function while adhering to the given constraints.
   - title: Experience
     layout: list
     content:
