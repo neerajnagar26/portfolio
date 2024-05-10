@@ -142,7 +142,7 @@ content:
         #link: https://research.samsung.com/sri-n
 
         description: | # this will include new lines to allow paragraphs
-          Image Style Transfer
+          Project: Image Style Transfer
             - Applied image processing to combine a sequence of photos, extracting the best segments individually to create the
               finest composite image.
             - Developed a model to transfer the style of one image region into another image region associated with
