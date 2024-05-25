@@ -32,9 +32,13 @@ pinterest_username: #jekyll
 youtube_username: #jekyll
 orcid_username: #0000-0000-0000-0000
 googlescholar_username: #D847cGsAAAAJ
-leetcode_username: neerajnagar
+#leetcode_username: neerajnagar
 
-
+additional_links:
+  - title: LeetCode
+    icon: fab fa-code
+    url: https://leetcode.com/neerajnagar/
+    
 # Additional icon links
 #additional_links:
 # - title: Link name
