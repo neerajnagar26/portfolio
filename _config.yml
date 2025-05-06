@@ -124,8 +124,9 @@ content:
           - Tools of Intelligent Systems Design
 
           Teaching Assistant:
-          - SE350 Operating System, Winter'24, Instructor: Sebastian Fischmeister 
-          - ECE350 RTOS, Spring'24, Instructor: Ziqiang Patrick Huang
+          - SE350 Operating System 
+          - ECE350 Real Time Operating Systems
+          - ECE307  Probability Theory and Statistics 2
 
       - layout: left
         title: Samsung R&D, India
