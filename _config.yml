@@ -98,6 +98,22 @@ content:
            - Implemented Dijkstra's algorithm for pathfinding, ensuring efficient navigation to deliver objects to 
              desired locations while receiving real-time input from a top-mounted camera for continuous monitoring.
 
+
+  - title: Patents and Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Mining Patterns for Maximal Coverage in Time Series
+        link: https://acisinternational.org/conferences/sera-2025/
+        link_text: #Link Text
+        # additional_links:
+        #   - title:  Github page for project 
+        #     icon: fab fa-github
+        #     url: Link to project 
+        description: | # this will include new lines to allow paragraphs
+          - Presented at IEEE/ACIS SERA 2025, Accepted for Publication in Proceedings
+
+
   - title: Experience
     layout: list
     content:
